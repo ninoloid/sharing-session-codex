@@ -1,4 +1,6 @@
-MEMOIZATION
+# MEMOIZATION
+
+<br>
 
 # Intro
 Dynamic Programming adalah salah satu teknik perancangan algoritma yang dikembangkan untuk menyelesaikan permasalahan yang sangat kompleks dengan cara memecah permasalahan tersebut menjadi banyak sub-masalah. Dalam Dynamic Programming, kita menggunakan kembali hasil kalkulasi sub-masalah yang telah dilakukan sebelumnya.
@@ -7,7 +9,7 @@ Ada 2 pattern yang paling sering digunakan, Tabulation (atau Bottom Up) dan Memo
 
 <br>
 
-# DEFINISI
+# Definisi
 Memoization adalah teknik penyelesaian masalah dengan cara memecah masalah menjadi sub-masalah, menyelesaikan sub-masalah, kemudian menyimpan hasil penyelesaian sub-masalah untuk digunakan kembali jika terdapat sub-masalah yang identik. Disebut Top Down karena sub-masalah akan dipecah dan dicari solusinya mulai dari inti masalah itu sendiri, dan secara rekursif akan menyelesaikan sub-masalah yang lebih kecil.
 
 <br>
